@@ -1,0 +1,1 @@
+"""Immutable, evidence-backed platform snapshots (independent of legacy releases)."""
